@@ -1,0 +1,17 @@
+{
+  "manifest_version": 1,
+
+  "name": "Date_and_Time",
+  "description": "This extension incorporates a visual date and time indicator in the chrome toolbar.",
+  "version": "1.0",
+
+
+  "browser_action": {
+    "default_icon": " ",
+    "default_popup": ""
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
